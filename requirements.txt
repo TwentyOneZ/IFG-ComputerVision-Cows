@@ -1,0 +1,33 @@
+# ==========================================
+# PACOTES BASE E VISÃO COMPUTACIONAL
+# ==========================================
+# Pacote oficial do YOLO (inclui PyTorch, OpenCV, NumPy, etc.)
+ultralytics>=8.0.0
+
+# Biblioteca para ler as variáveis do arquivo .env
+python-dotenv>=1.0.0
+
+# ==========================================
+# MANIPULAÇÃO DE DADOS
+# ==========================================
+# Estruturação de dados e tabelas CSV
+pandas>=2.0.0
+
+# ==========================================
+# ANÁLISE DESCRITIVA E MACHINE LEARNING
+# ==========================================
+# Geração de gráficos (Boxplots, Scatter, etc. da Etapa 4 e 6)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Algoritmos estatísticos base (PCA da Etapa 4) e modelagem auxiliar
+scikit-learn>=1.2.0
+
+# Suite completa de AutoML para a Etapa 5 (treinamento rigoroso)
+pycaret>=3.0.0
+
+# ==========================================
+# AVALIAÇÃO VISUAL E AUDITORIA DE DATASET
+# ==========================================
+# Ferramenta para curadoria de dados e análise de erros do modelo (Etapa 7)
+fiftyone>=0.23.0
