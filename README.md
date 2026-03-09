@@ -141,5 +141,3 @@ python Parte7_fiftyone_pycaret.py
 3. **Limitações Fenotípicas Locais:** O *framework* atingiu o teto preditivo imposto pelas homólogas distribuições melanísticas da raça Holandesa. A otimização rumo a acurácias absolutas demanda futuras pesquisas envolvendo vetores espaciais aumentados e redes temporais aplicadas à transição de *frames* em fluxos de vídeo.
 
 ---
-
-**Desenvolvido para fins de pesquisa em Zootecnia de Precisão e Visão Computacional Aplicada.**
